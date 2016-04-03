@@ -1,0 +1,20 @@
+{
+  "name": "audione.js",
+  "version":"0.1.0",
+  "homepage": "https://github.com/mirceasinteanu/audione.js",
+  "authors": [
+    "Mircea Sinteanu <mircea.sinteanu@gmail.com>"
+  ],
+  "description": "A lightweight library for manipulating and playing an audio file",
+  "main": "dist/audione.js",
+  "keywords": [
+    "audio"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "spec/",
+    "src/",
+    "gulpfile.js"
+  ]
+}
